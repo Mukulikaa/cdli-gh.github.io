@@ -6,18 +6,26 @@ sidebar:
 toc: true
 ---
 
-The CDLI online database contains, as of 1 December 2016, catalogue information for approximately 322,500 cuneiform texts (plus 8,500 entries representing composite texts), 210,000 images, and 2.73 million lines of transliteration and related annotation. Search functions of the website are powered by a MySQL database developed and improved over time by UCLA computer science graduate students Marjan Yahyanejad, Saurabh Trivedi, Oren Freiberg, Stoytcho Stoytchev, Ryan Evans, Eunice Yuh-Jie Chen, Aashith Kamath, Saurabh Trikande, Prashant Rajput, and University of Toronto ANE graduate student Émilie Pagé-Perron.
+The CDLI online database contains, as of 6 March 2019, catalogue information for approximately 335,600 cuneiform text artifacts (plus 8,800 entries representing composite texts), 220,000 images, and 2.93 million lines of transliteration and related annotation. Search functions of the website are powered by a MySQL database developed and improved over time by UCLA computer science graduate students Marjan Yahyanejad, Saurabh Trivedi, Oren Freiberg, Stoytcho Stoytchev, Ryan Evans, Eunice Yuh-Jie Chen, Aashith Kamath, Saurabh Trikande, Prashant Rajput, and by CDLI co-PI Émilie Pagé-Perron working with the programming staff of two ongoing NEH-funded core update and machine assisted translation teams from the US, Canada and Germany.
 
 ## Searching the CDLI database
+There are two ways to search the CDLI database: Simple Search and Advanced Search. 
 
 ### Simple search
 
 ### Advanced search
 
+## Interpreting Search Results
 
+### Expanded Search Results
 
-## Searching the CDLI database prior to Framework Update (2018)
-<!--
+### Compact View
+
+### Artifact View
+
+### Stats
+
+<!--## Searching the CDLI database prior to Framework Update (2018)
 ### Searching the Catalogue
 When searching for cuneiform artifacts in the catalogue, it is possible to choose between two basic modes of display.
 
